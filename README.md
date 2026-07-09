@@ -1,6 +1,6 @@
 # disposable-domains-br
 
-Lista curada de **domínios de e-mail descartáveis / temporários** (temp-mail, throwaway, disposable) para bloqueio em formulários de captação. Mantida para uso nos produtos da Clareza Smart (Audix, ExtratorXML) e aberta à comunidade.
+Lista curada de **domínios de e-mail descartáveis / temporários** (temp-mail, throwaway, disposable) para bloqueio em formulários de captação e aberta à comunidade.
 
 > **Objetivo:** impedir que e-mails de serviços temporários (temp-mail.org, AdGuard Temp Mail, Mailinator, etc.) passem por gates de cadastro, protegendo o custo-por-lead de campanhas de tráfego pago.
 
